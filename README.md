@@ -21,4 +21,5 @@ This project contains 2 programs:
 - **rrr**: rra and rrb at the same time.
 
 
-![1_HnhUPGIafYrShJav9tkVug](https://user-images.githubusercontent.com/105823790/169652334-f06ceb7a-308a-483c-80b4-b5cc2e1eb4bc.png)
+
+![1_LjwfAbYXsjbxtaS-bCUJ7Q](https://user-images.githubusercontent.com/105823790/169652500-fe8c0f15-35e1-4bbc-acd6-422d3b04283f.png)
