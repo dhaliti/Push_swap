@@ -20,3 +20,5 @@ This project contains 2 programs:
 - **rrb**: *reverse rotate b* - shift down all elements of stack b by 1. The last element becomes the first one.
 - **rrr**: rra and rrb at the same time.
 
+
+![1_HnhUPGIafYrShJav9tkVug](https://user-images.githubusercontent.com/105823790/169652334-f06ceb7a-308a-483c-80b4-b5cc2e1eb4bc.png)
