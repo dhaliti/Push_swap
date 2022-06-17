@@ -1,10 +1,12 @@
+<img src="https://user-images.githubusercontent.com/105823790/171860148-c0b11827-51de-42e1-8213-e1e83249b081.png" width="150" height="150">
+
 # push_swap
 
-The **push_swap** project is a very simple and highly effective algorithm project: data will need to be sorted. You have at your disposal a set of int values, 2 stacks and a set of instructions to manipulate both stacks.
+The **push_swap** project is simple sorting algorithm project. You have at your disposal a set of int values, 2 stacks and a set of instructions to manipulate both stacks.
 
 This project contains 2 programs:
-- The first, named **checker** which takes integer arguments and reads instructions on the standard output. Once read,checker executes them and displays `OK` if integersare sorted. Otherwise, it will display `KO`.
-- The second one called **push_swap** which calculates and displays on the standard output the smallest progam using *push_swap instruction language* that sorts inte-ger arguments received.
+- The first, named **checker**, takes integer arguments and reads instructions on the standard output. Once read, checker executes them and displays `OK` if the stack was effectively sorted. Otherwise, it displays `KO`.
+- The second one called **push_swap** prints on the standard output the list of instructions (see below) needed to sort the stack.
 
 ## push_swap instructions
 
